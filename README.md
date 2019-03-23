@@ -1,1 +1,1 @@
-Code for Applied Estimation at KTH
+Code for course in Applied Estimation at KTH
